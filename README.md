@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hola, soy Melany Coto Ramírez 👋
 
-<!--
-**Melany0213/Melany0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora Full Stack e Ingeniera en Ciencias Informáticas (UCI). Máster en Informática Avanzada.
 
-Here are some ideas to get you started:
+- 💼 Trabajo en backend y frontend con **Laravel, Django y React**, y en apps móviles con **React Native y Expo**.
+- 🧪 Experiencia en pruebas de software: manuales y automatizadas con **Cypress**.
+- 🏗️ Proyecto propio: **Sistema Multinegocio**, plataforma SaaS multi-tenant (Laravel, PostgreSQL, Tailwind CSS).
+- 🤖 Uso asistentes de IA (Claude Code, GitHub Copilot) para investigar código, implementar y probar, con revisión propia de lo que entrego.
+- 🎓 Profesora en la Universidad de las Ciencias Informáticas (UCI).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacto
+- 🌐 Portafolio: [melany0213.github.io/portfolio](https://melany0213.github.io/portfolio/)
+- ✉️ melcr132000@gmail.com
+- 💬 Telegram: [@melcr132000](https://t.me/melcr132000)
